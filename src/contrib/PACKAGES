@@ -1,0 +1,10 @@
+Package: rdt
+Version: 3.0.3
+Depends: R (>= 3.5.0)
+Imports: curl, digest, ggplot2, grDevices, gtools,
+      jsonlite, knitr, methods, sessioninfo, stringr,
+      tools, utils, XML
+Suggests: testthat, provSummarizeR, provViz
+License: GPL-3 | file LICENSE
+MD5sum: b691bcbcfdfed3f0941dbb770af3daef
+NeedsCompilation: no
