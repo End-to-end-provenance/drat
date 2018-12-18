@@ -2,6 +2,8 @@
 
 Drat R Archive Template
 
+The [rdt package](https://github.com/End-to-end-provenance/rdt) is available for installation from this drat.
+
 ### Background
 
 The R package ecosystem is one of the cornerstones of the success seen by R.
