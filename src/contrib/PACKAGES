@@ -1,7 +1,10 @@
-Package: drat
-Version: 0.0.4
-Suggests: git2r, knitr
-License: GPL (>= 2)
-MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
+Package: rdt
+Version: 3.0.3
+Depends: R (>= 3.5.0)
+Imports: curl, digest, ggplot2, grDevices, gtools,
+      jsonlite, knitr, methods, sessioninfo, stringr,
+      tools, utils, XML
+Suggests: testthat, provSummarizeR, provViz
+License: GPL-3 | file LICENSE
+MD5sum: b691bcbcfdfed3f0941dbb770af3daef
 NeedsCompilation: no
-
